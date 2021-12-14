@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@suldashi/lame": "^1.2.5",
+    "icy": "^2.1.0",
+    "pg": "^8.7.1",
+    "speaker": "^0.5.3"
+  }
+}
